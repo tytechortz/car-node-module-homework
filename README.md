@@ -17,4 +17,4 @@ Functions specs:
 
 run <code>npm install</code> to install the testing packages
 
-To test your Car class,  then <code>npm test</code> to test the features. DO NOT ALTER THE TEST FILE. Continue coding in the Car.js file until all tests pass.
+To test your Car class, run <code>npm test</code> to test the features. DO NOT ALTER THE TEST FILE. Continue coding in the Car.js file until all tests pass.

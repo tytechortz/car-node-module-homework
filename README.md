@@ -15,6 +15,10 @@ Functions specs:
 - include accelerate and decelerate
   - these should take one argument, the speed, and add or substract it the from the current speed
 
-run <code>npm install</code> to install the testing packages
+Node modules:
+
+You will notice a package.json file listing specific packages (a.k.a node modules) required for testing this assignment. Node modules will be vital to this unit and future javascript projects. In this case, our modules add automated testing functionality to our project.
+
+Run <code>npm install</code> to install packages listed in package.json. This will create a node_modules folder that your project will draw from.
 
 To test your Car class, run <code>npm test</code> to test the features. DO NOT ALTER THE TEST FILE. Continue coding in the Car.js file until all tests pass.
